@@ -37,6 +37,24 @@
 ## 🔧 Setup Instructions
 
 1. **Clone this repository**
-   ```bash
-   git clone https://github.com/your-username/FlashChat-SwiftUI.git
+   
+bash
+   git clone https://github.com/chaturvedixi/FlashChat-SwiftUI.git
    cd FlashChat-SwiftUI
+Open the project in Xcode
+
+Open the .xcodeproj or .xcworkspace file
+
+Set up Firebase
+
+Go to Firebase Console
+
+Create a new project (or use an existing one)
+
+Add an iOS app to the project
+
+Register your app’s Bundle Identifier
+
+Download the GoogleService-Info.plist file
+
+Drag and drop the GoogleService-Info.plist file into 
