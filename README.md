@@ -40,10 +40,12 @@
    
 bash
    git clone https://github.com/chaturvedixi/FlashChat-SwiftUI.git
+   
    cd FlashChat-SwiftUI
+
 Open the project in Xcode
 
-Open the .xcodeproj or .xcworkspace file
+Open the .xcodeproj 
 
 Set up Firebase
 
