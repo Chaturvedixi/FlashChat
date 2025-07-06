@@ -1,5 +1,4 @@
 # 📱 FlashChat - Real-Time Chat App (SwiftUI + Firebase)
-
 **FlashChat** is a real-time messaging application built using **SwiftUI** and **Firebase**, inspired by modern messaging platforms. It allows users to sign up, log in, and exchange messages instantly in a sleek, responsive interface.
 
 ---
